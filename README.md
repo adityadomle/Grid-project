@@ -10,8 +10,6 @@ A modern, responsive grid-based web layout showcasing a fashion-inspired theme w
 - 🎥 Full-screen looping background video  
 - 🔠 Animated arrow icon using Font Awesome  
 
-## 📁 Project Structure
-
 ## 📸 Layout Overview
 
 ### Grid Areas:
