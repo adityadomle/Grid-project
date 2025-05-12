@@ -2,6 +2,10 @@
 
 A modern, responsive grid-based web layout showcasing a fashion-inspired theme with video integration and elegant typography.
 
+## Screenshot
+
+![Project Screenshot](Assets/View.png)
+
 ## 🚀 Features
 
 - ⚡ Clean grid layout using CSS Grid  
